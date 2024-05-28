@@ -47,6 +47,11 @@ Here is a list of some of the key projects you will find in this repository:
    including Minimax Algorithm like TicTacToe Game, and Genetic Algorithm like Knapsack Problem and Travelling Salesman
    Problem.
 
+> 3. **Knowledge**
+>- __Description:__ This project showcases various algorithms in Artificial Intelligence implemented in Python,
+   including Inference Engine like Medical Diagnostic or Car Mechanic that uses given knowledge and uses reasoning to
+   provide causes and solutions.
+
 ## Learning Journey
 
 Throughout my projects, I've learned a variety of skills and technologies. Here are some of the key areas I've focused

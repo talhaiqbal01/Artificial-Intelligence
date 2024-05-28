@@ -11,7 +11,6 @@ provide resources for others who might find them useful.
 - [Projects](#projects)
 - [Learning Journey](#learning-journey)
 - [How to Use This Repository](#how-to-use-this-repository)
-- [Contributions](#contributions)
 - [Contact](#contact)
 
 ## Introduction
@@ -34,10 +33,10 @@ that is not only a portfolio of my work but also a helpful guide for others inte
 
 Here is a list of some of the key projects you will find in this repository:
 
-1. **Uninformed Searching**
-    - __Description:__ A brief overview of the project.
-    - __Technologies:__ List of technologies used.
-    - __Learnings:__ Key takeaways and challenges faced.
+> 1. **Searching Algorithms**
+>- __Description:__  This project showcases various search algorithms implemented in Python, including uninformed
+   search algorithms like Depth First Search and Breath First Search, and informed search algorithms like Uniform
+   Cost Search, A* Search, Greedy Best-First Search, and Dijkstra's Algorithm.
 
 ## Learning Journey
 
@@ -55,11 +54,6 @@ Feel free to explore the repository and dive into the projects that interest you
 - A detailed `README.md` file with project-specific information.
 - Code and resources used in the project.
 - Instructions on how to run or contribute to the project.
-
-## Contributions
-
-Contributions are welcome! If you have suggestions for improvements or new projects, please feel free to open an issue
-or submit a pull request. Let's collaborate and learn together.
 
 ## Contact
 

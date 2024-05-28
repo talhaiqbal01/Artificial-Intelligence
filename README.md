@@ -7,7 +7,7 @@ provide resources for others who might find them useful.
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [IDE, Language and Plugins](#ide-language-and-plugins)
+- [IDE, Language, Packages and Plugins](#ide-language-packages-and-plugins)
 - [Projects](#projects)
 - [Learning Journey](#learning-journey)
 - [How to Use This Repository](#how-to-use-this-repository)
@@ -19,12 +19,16 @@ This repository contains a collection of my projects across various domains and 
 detailed documentation, code samples, and insights into what I've learned along the way. My aim is to create a resource
 that is not only a portfolio of my work but also a helpful guide for others interested in similar topics.
 
-## IDE, Language and Plugins
+## IDE, Language, Packages and Plugins
 
 - __IDE:__
   PyCharm by Intellij
 - __Language:__
   Python (3.12)
+- __Packages:__
+    * heapq (Used for priority queue)
+    * pygame (Used to make and display games)
+    * time (Used to manipulate time values)
 - __Pycharm Plugins:__
     * .ignore
     * Mermaid
@@ -37,6 +41,11 @@ Here is a list of some of the key projects you will find in this repository:
 >- __Description:__  This project showcases various search algorithms implemented in Python, including uninformed
    search algorithms like Depth First Search and Breath First Search, and informed search algorithms like Uniform
    Cost Search, A* Search, Greedy Best-First Search, and Dijkstra's Algorithm.
+
+> 2. **Adversarial Search**
+>- __Description:__ This project implements a Tic Tac Toe game using the Minimax algorithm to ensure optimal play. The
+   game can be played in a terminal or with a graphical interface using Pygame, allowing users to play against an AI
+   that makes the best possible moves.
 
 ## Learning Journey
 

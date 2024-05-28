@@ -1,3 +1,6 @@
+"""
+Main Runner of the Informed Search (Uniform Cost Search, A* Search, Greedy Best-First Search, Dijkstra Search)
+"""
 from searching_algorithms.informed_searching.graph import Graph
 from searching_algorithms.informed_searching.uniform_cost_search import UniformCostSearch
 from searching_algorithms.informed_searching.a_star_search import AStarSearch

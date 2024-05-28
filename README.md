@@ -42,10 +42,10 @@ Here is a list of some of the key projects you will find in this repository:
    search algorithms like Depth First Search and Breath First Search, and informed search algorithms like Uniform
    Cost Search, A* Search, Greedy Best-First Search, and Dijkstra's Algorithm.
 
-> 2. **Adversarial Search**
->- __Description:__ This project implements a Tic Tac Toe game using the Minimax algorithm to ensure optimal play. The
-   game can be played in a terminal or with a graphical interface using Pygame, allowing users to play against an AI
-   that makes the best possible moves.
+> 2. **Algorithms**
+>- __Description:__ This project showcases various algorithms in Artificial Intelligence implemented in Python,
+   including Minimax Algorithm like TicTacToe Game, and Genetic Algorithm like Knapsack Problem and Travelling Salesman
+   Problem.
 
 ## Learning Journey
 
